@@ -1,0 +1,39 @@
+== Lista de Estudantes (ordem de cadastro) ==
+1 - Ana
+2 - Bruno
+3 - Carla
+4 - Diego
+5 - Elisa
+
+== Lista de Estudantes (ordenada) ==
+Ana, Bruno, Carla, Diego, Elisa
+
+== Disciplinas (inserção) ==
+MAT101, PRG201, BD301, EDF110
+
+== Duplicatas detectadas na importação ==
+(nenhuma)
+
+== Matrículas ==
+Ana: MAT101(8.5), PRG201(9.0) Média: 8,75
+Bruno: PRG201(7.0), MAT101(5.0) Média: 6,00
+Carla: BD301(6.5), MAT101(7.5) Média: 7,00
+Diego: PRG201(8.0) Média: 8,00
+Elisa: EDF110(10.0) Média: 10,00
+
+== Médias por Disciplina ==
+MAT101: 7,00
+PRG201: 8,00
+BD301: 6,50
+EDF110: 10,00
+
+== Top 3 alunos por média ==
+1) Elisa - 10,00
+2) Ana - 8,75
+3) Diego - 8,00
+
+== Alunos com média >= 8.0 ==
+Ana, Diego, Elisa
+
+== Disciplinas com média < 6.0 ==
+(nenhuma)
